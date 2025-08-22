@@ -29,9 +29,10 @@ This application is built with a focus on a clean, scalable architecture and a s
 
 ## 2. Screenshots
 
-| Splash & Profile | Home & Statistics | Identify & Result | History & Filters |
-| :--------------: | :---------------: | :-----------------: | :-----------------: |
-| <img src="" width="200"/> | <img src="" width="200"/> | <img src="" width="200"/> | <img src="" width="200"/> |
+| | | |
+|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
+| ![App Screenshot 1](app/src/main/res/drawable/interface.jpg) | ![App Screenshot 2](app/src/main/res/drawable/dashboard.jpg) | ![App Screenshot 3](app/src/main/res/drawable/historial.jpg) |
+| ![App Screenshot 4](app/src/main/res/drawable/prediction.jpg) | ![App Screenshot 5](app/src/main/res/drawable/profile.jpg) | ![App Screenshot 6](app/src/main/res/drawable/guide.jpg) |
 
 ## 3. Features
 
