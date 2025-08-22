@@ -1,0 +1,20 @@
+# IDE files
+.idea/
+*.iml
+
+# Build output
+/build
+/app/build
+
+# Local configuration
+/local.properties
+
+# Gradle files
+.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
+
+# Other
+*.DS_Store
+/captures/
